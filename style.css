@@ -461,7 +461,7 @@ body{
 
 
 
-@media (max-width:767px) {
+@media (max-width:500px) {
 
     html{
         font-size: 55%;
